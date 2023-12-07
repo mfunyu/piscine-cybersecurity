@@ -1,3 +1,6 @@
 [submodule "arachinda"]
 	path = arachinda
 	url = ./arachinda
+[submodule "ft_otp"]
+	path = ft_otp
+	url = ./ft_otp
