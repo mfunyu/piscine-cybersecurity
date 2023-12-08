@@ -4,3 +4,6 @@
 [submodule "ft_otp"]
 	path = ft_otp
 	url = ./ft_otp
+[submodule "ft_onion"]
+	path = ft_onion
+	url = ./ft_onion/
