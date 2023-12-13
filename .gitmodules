@@ -10,3 +10,6 @@
 [submodule "reverseme"]
 	path = reverseme
 	url = ./reverseme
+[submodule "Stockholm"]
+	path = Stockholm
+	url = ./Stockholm
