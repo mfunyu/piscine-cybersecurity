@@ -13,3 +13,6 @@
 [submodule "Stockholm"]
 	path = Stockholm
 	url = "https://github.com/mfunyu/Stockholm.git"
+[submodule "inquisitor"]
+	path = inquisitor
+	url = "https://github.com/mfunyu/inquisitor.git"
