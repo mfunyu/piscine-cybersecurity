@@ -16,3 +16,6 @@
 [submodule "inquisitor"]
 	path = inquisitor
 	url = "https://github.com/mfunyu/inquisitor.git"
+[submodule "vaccine"]
+	path = vaccine
+	url = "https://github.com/mfunyu/vaccine.git"
